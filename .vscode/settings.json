@@ -1,3 +1,6 @@
 {
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-action.json": "file:///c%3A/workspace/gh-actions-sandbox/09-gh-containers/.github/workflows/deploy.yml"
+  }
 }
